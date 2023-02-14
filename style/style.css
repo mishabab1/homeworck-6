@@ -1,0 +1,304 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    background-color: #000000;
+
+
+}
+
+header {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+.xazi {
+    width: 100%;
+    height: 1px;
+    background-color: #C3C3C3;
+}
+
+
+
+
+h1 a {
+    font-size: 20px;
+    color: #E7E7E7;
+
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 414px;
+}
+
+ul a {
+    font-size: 16px;
+    color: #E7E7E7;
+
+}
+
+main {
+    width: 100%;
+    height: 1200px;
+    color: #E7E7E7;
+
+
+}
+
+.werili {
+    font-size: 128px;
+    color: #E7E7E7;
+    letter-spacing: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.statia {
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+
+.statia3 p {
+    width: 458px;
+    height: 100px;
+}
+
+
+
+
+
+
+.box {
+    width: 100%;
+    margin: 30px auto;
+
+    height: 800px;
+
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.shidabox {
+    width: 400px;
+    height: 540px;
+    overflow: hidden;
+
+
+
+}
+
+.shidabox img {
+    height: 100%;
+    width: 100%
+}
+
+.shidabox a {
+    color: #E7E7E7;
+}
+
+
+
+
+
+.kitxvisnishani {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin: 20px;
+
+
+
+}
+
+.shekveta {
+
+    width: 138px;
+    height: 80px;
+    margin: 30px auto;
+    color: #E7E7E7;
+
+
+
+}
+
+.pirvelip {
+    font-size: 28px;
+}
+
+.bolo {
+    width: 100px;
+    display: flex;
+}
+
+/* .....................gverdi2................... */
+
+
+
+.conteiner {
+    width: 60%;
+    margin: 100px;
+
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.yutebi img {
+    width: 200px;
+    height: 270px;
+    background-color: brown;
+
+}
+
+.nav2 {
+    width: 272px;
+    height: 132px;
+
+
+
+}
+
+.linkebi {
+    display: flex;
+    align-items: center;
+}
+
+
+/* .........................gverdi3...................... */
+
+
+
+.konvertconteiner {
+    height: 800px;
+    width: 900px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: space-around;
+
+
+
+
+
+
+
+
+
+
+}
+
+.converti img {
+    height: 540px;
+    width: 400px;
+    margin: 50px auto;
+
+
+
+}
+
+
+.pasi {
+    width: 400px;
+    height: 540px;
+
+    padding: 20px;
+    justify-content: space-around;
+
+
+}
+
+
+.pasi p {
+    padding: 5px;
+
+
+}
+
+
+
+.wertili1 {
+    height: 20px;
+    width: 20px;
+    background-color: #F6B058;
+    border-radius: 50%;
+
+}
+
+.wertili2 {
+    height: 20px;
+    width: 20px;
+    background-color: #3E93F6;
+    border-radius: 50%;
+
+}
+
+.wertili3 {
+    height: 20px;
+    width: 20px;
+    background-color: #FF7070;
+    border-radius: 50%;
+
+
+
+}
+
+.wertili4 {
+    height: 20px;
+    width: 20px;
+    background-color: #E8E8E8;
+    border-radius: 50%;
+
+
+
+}
+
+
+
+
+
+
+
+.dididivi {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+.Shekvetaaxlave {
+    height: 50px;
+    width: 200px;
+
+    margin-top: 350px;
+
+
+
+}
